@@ -13,17 +13,17 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>global</sys_domain_path>
         <sys_id>ca4eae9619cdf110e8b278c3d15fa347</sys_id>
-        <sys_mod_count>1</sys_mod_count>
+        <sys_mod_count>2</sys_mod_count>
         <sys_name>view</sys_name>
         <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
         <sys_policy/>
         <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
         <sys_update_name>sys_ux_page_property_ca4eae9619cdf110e8b278c3d15fa347</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-05 13:47:11</sys_updated_on>
+        <sys_updated_on>2023-09-06 04:12:13</sys_updated_on>
         <type>string</type>
         <unique_name>x_snc_yr_apiaccess.064eae9675cdf110f365a2d3244a0d58.root.view</unique_name>
-        <value>workspace-api-access-0</value>
+        <value>Workspace-API-Access-0</value>
     </sys_ux_page_property>
     <sys_translated_text action="delete_multiple" query="documentkey=ca4eae9619cdf110e8b278c3d15fa347"/>
 </record_update>
