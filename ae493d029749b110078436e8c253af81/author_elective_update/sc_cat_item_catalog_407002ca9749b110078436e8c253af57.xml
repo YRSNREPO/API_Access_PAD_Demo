@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="API Access Request">0500c68a9749b110078436e8c253af08</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 15:48:19</sys_created_on>
+        <sys_id>407002ca9749b110078436e8c253af57</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.API Access Request</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_407002ca9749b110078436e8c253af57</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 15:48:19</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="API Access">ae493d029749b110078436e8c253af81</application>
+        <file_path/>
+        <instance_id>8d2ff525db8d3d9c38f1172913961973</instance_id>
+        <instance_name>yrdemou1</instance_name>
+        <name>sc_cat_item_catalog_407002ca9749b110078436e8c253af57</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="API Access Request">0500c68a9749b110078436e8c253af08</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-04 15:48:19</sys_created_on><sys_id>407002ca9749b110078436e8c253af57</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.API Access Request</sys_name><sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package><sys_policy/><sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope><sys_update_name>sc_cat_item_catalog_407002ca9749b110078436e8c253af57</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-04 15:48:19</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>878731725</payload_hash>
+        <record_name>Service Catalog.API Access Request</record_name>
+        <reverted_from/>
+        <source>ee493d029749b110078436e8c253af83</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 15:48:19</sys_created_on>
+        <sys_id>007002ca9749b110078436e8c253af73</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a60e169010000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 15:48:19</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>407002caf549b11061cb5434bea5bc72</update_guid>
+        <update_guid_history>407002caf549b11061cb5434bea5bc72:878731725</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.API Access Request">657042ca9749b110078436e8c253af35</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 15:48:25</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0204a801c24044c480566bb9d9a544c4</sys_id>
+        <sys_metadata>407002ca9749b110078436e8c253af57</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.API Access Request</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_parent display_value="API Access Request">0500c68a9749b110078436e8c253af08</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_scope_delete display_value="">85e95c0080984ae1a42fde34573e89d1</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_407002ca9749b110078436e8c253af57</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_407002ca9749b110078436e8c253af57">007002ca9749b110078436e8c253af73</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 15:48:25</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

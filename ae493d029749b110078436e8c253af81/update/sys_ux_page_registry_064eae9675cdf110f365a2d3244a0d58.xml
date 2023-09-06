@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_page_registry">
+    <sys_ux_page_registry action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_panel>4a4eae96c8cdf11090e9adb3570ed858</admin_panel>
+        <admin_panel_table>sys_ux_app_config</admin_panel_table>
+        <auth_routes/>
+        <page/>
+        <parent_app display_value="Unified Navigation app shell">c86a62e2c7022010099a308dc7c26022</parent_app>
+        <path>api-access</path>
+        <root_macroponent display_value="Workspace App Shell">c276387cc331101080d6d3658940ddd2</root_macroponent>
+        <sys_class_name>sys_ux_page_registry</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 13:47:07</sys_created_on>
+        <sys_id>064eae9675cdf110f365a2d3244a0d58</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>API Access</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_update_name>sys_ux_page_registry_064eae9675cdf110f365a2d3244a0d58</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 13:47:07</sys_updated_on>
+        <title>API Access</title>
+    </sys_ux_page_registry>
+</record_update>

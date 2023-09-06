@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition">
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <label>API Acess</label>
+        <name>api_acess</name>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <snapshot/>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 15:31:21</sys_created_on>
+        <sys_id>d38cfd429749b110078436e8c253af50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>API Acess</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_update_name>sys_pd_process_definition_d38cfd429749b110078436e8c253af50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 15:31:21</sys_updated_on>
+        <view_type>KANBAN</view_type>
+    </sys_pd_process_definition>
+    <sys_pd_process_definition action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <description/>
+        <label>API Acess</label>
+        <name>api_acess</name>
+        <run_on_pad_engine>false</run_on_pad_engine>
+        <snapshot/>
+        <status>draft</status>
+        <sys_class_name>sys_pd_process_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 15:31:21</sys_created_on>
+        <sys_id>d38cfd429749b110078436e8c253af50</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>API Acess</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_update_name>sys_pd_process_definition_d38cfd429749b110078436e8c253af50</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 15:31:21</sys_updated_on>
+        <view_type>KANBAN</view_type>
+    </sys_pd_process_definition>
+    <sys_pd_lane action="DELETE" query="process_definition=d38cfd429749b110078436e8c253af50"/>
+    <sys_pd_activity action="DELETE" query="process_definition=d38cfd429749b110078436e8c253af50"/>
+    <sys_pd_swim_lane action="DELETE" query="process_definition=d38cfd429749b110078436e8c253af50"/>
+    <sys_pd_activity_m2m_app_object action="DELETE" query="activity.process_definition=d38cfd429749b110078436e8c253af50"/>
+    <sys_pd_snapshot action="DELETE" query="sys_id="/>
+    <sys_json_chunk action="DELETE" query="document_id="/>
+    <sys_pd_snapshot_chunk action="DELETE" query="document_id="/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="API Access">ae493d029749b110078436e8c253af81</application>
+        <file_path/>
+        <instance_id>8d2ff525db8d3d9c38f1172913961973</instance_id>
+        <instance_name>yrdemou1</instance_name>
+        <name>sys_pd_process_definition_d38cfd429749b110078436e8c253af50</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_pd_process_definition"><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description/><label>API Acess</label><name>api_acess</name><run_on_pad_engine>false</run_on_pad_engine><snapshot/><status>draft</status><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-04 15:31:21</sys_created_on><sys_id>d38cfd429749b110078436e8c253af50</sys_id><sys_mod_count>0</sys_mod_count><sys_name>API Acess</sys_name><sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package><sys_policy/><sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope><sys_update_name>sys_pd_process_definition_d38cfd429749b110078436e8c253af50</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-04 15:31:21</sys_updated_on><view_type>KANBAN</view_type></sys_pd_process_definition><sys_pd_process_definition action="INSERT_OR_UPDATE"><access>public</access><active>true</active><description/><label>API Acess</label><name>api_acess</name><run_on_pad_engine>false</run_on_pad_engine><snapshot/><status>draft</status><sys_class_name>sys_pd_process_definition</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-04 15:31:21</sys_created_on><sys_id>d38cfd429749b110078436e8c253af50</sys_id><sys_mod_count>0</sys_mod_count><sys_name>API Acess</sys_name><sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package><sys_policy/><sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope><sys_update_name>sys_pd_process_definition_d38cfd429749b110078436e8c253af50</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-04 15:31:21</sys_updated_on><view_type>KANBAN</view_type></sys_pd_process_definition><sys_pd_lane action="delete_multiple" query="process_definition=d38cfd429749b110078436e8c253af50"/><sys_pd_activity action="delete_multiple" query="process_definition=d38cfd429749b110078436e8c253af50"/><sys_pd_swim_lane action="delete_multiple" query="process_definition=d38cfd429749b110078436e8c253af50"/><sys_pd_activity_m2m_app_object action="delete_multiple" query="activity.process_definition=d38cfd429749b110078436e8c253af50"/><sys_pd_snapshot action="delete_multiple" query="sys_id="/><sys_json_chunk action="delete_multiple" query="document_id="/><sys_pd_snapshot_chunk action="delete_multiple" query="document_id="/></record_update>]]></payload>
+        <payload_hash>613830417</payload_hash>
+        <record_name>API Acess</record_name>
+        <reverted_from/>
+        <source>ee493d029749b110078436e8c253af83</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 15:31:21</sys_created_on>
+        <sys_id>9b8c39469749b110078436e8c253aff4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a60d1ddf00000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 15:31:21</sys_updated_on>
+        <type>Process Definition</type>
+        <update_guid>9f8c3946fa49b110983a458395a73df3</update_guid>
+        <update_guid_history>9f8c3946fa49b110983a458395a73df3:613830417</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-04 15:35:12</sys_created_on>
+        <sys_db_object display_value="" name="sys_pd_process_definition">sys_pd_process_definition</sys_db_object>
+        <sys_id>278e60294aa845c8b240117587282a31</sys_id>
+        <sys_metadata>d38cfd429749b110078436e8c253af50</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>API Acess</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_scope_delete display_value="">85e95c0080984ae1a42fde34573e89d1</sys_scope_delete>
+        <sys_update_name>sys_pd_process_definition_d38cfd429749b110078436e8c253af50</sys_update_name>
+        <sys_update_version display_value="sys_pd_process_definition_d38cfd429749b110078436e8c253af50">9b8c39469749b110078436e8c253aff4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-04 15:35:12</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

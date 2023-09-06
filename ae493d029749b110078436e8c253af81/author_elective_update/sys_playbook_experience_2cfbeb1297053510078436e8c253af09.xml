@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_playbook_experience">
+    <sys_playbook_experience action="DELETE">
+        <name>API Access Request</name>
+        <sys_class_name>sys_playbook_experience</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 18:16:39</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_id>2cfbeb1297053510078436e8c253af09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>API Access Request</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_update_name>sys_playbook_experience_2cfbeb1297053510078436e8c253af09</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 18:16:39</sys_updated_on>
+    </sys_playbook_experience>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="API Access">ae493d029749b110078436e8c253af81</application>
+        <file_path/>
+        <instance_id>8d2ff525db8d3d9c38f1172913961973</instance_id>
+        <instance_name>yrdemou1</instance_name>
+        <name>sys_playbook_experience_2cfbeb1297053510078436e8c253af09</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_playbook_experience"><sys_playbook_experience action="INSERT_OR_UPDATE"><name>API Access Request</name><sys_class_name>sys_playbook_experience</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-09-05 18:16:39</sys_created_on><sys_domain>global</sys_domain><sys_id>2cfbeb1297053510078436e8c253af09</sys_id><sys_mod_count>0</sys_mod_count><sys_name>API Access Request</sys_name><sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package><sys_policy/><sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope><sys_update_name>sys_playbook_experience_2cfbeb1297053510078436e8c253af09</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-09-05 18:16:39</sys_updated_on></sys_playbook_experience></record_update>]]></payload>
+        <payload_hash>1982314523</payload_hash>
+        <record_name>API Access Request</record_name>
+        <reverted_from/>
+        <source>ee493d029749b110078436e8c253af83</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 18:16:39</sys_created_on>
+        <sys_id>62fbab1297053510078436e8c253af7e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18a668f90e20000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 18:16:39</sys_updated_on>
+        <type>Playbook Experience</type>
+        <update_guid>66fbab1227053510bb6c7afa66f4737d</update_guid>
+        <update_guid_history>66fbab1227053510bb6c7afa66f4737d:1982314523</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-05 18:17:39</sys_created_on>
+        <sys_db_object display_value="" name="sys_playbook_experience">sys_playbook_experience</sys_db_object>
+        <sys_id>54e90626c7574dd89fb578c296d953a4</sys_id>
+        <sys_metadata>2cfbeb1297053510078436e8c253af09</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>API Access Request</sys_name>
+        <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
+        <sys_scope_delete display_value="">85e95c0080984ae1a42fde34573e89d1</sys_scope_delete>
+        <sys_update_name>sys_playbook_experience_2cfbeb1297053510078436e8c253af09</sys_update_name>
+        <sys_update_version display_value="sys_playbook_experience_2cfbeb1297053510078436e8c253af09">62fbab1297053510078436e8c253af7e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-05 18:17:39</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

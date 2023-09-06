@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ea3df5869749b110078436e8c253af94" extends="task" label="API Access Request" max_length="40" name="x_snc_yr_apiaccess_request" text_index="true" type="collection">
+        <element choice="1" label="EU01" mandatory="true" max_length="40" name="eu01" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="1" value="no"/>
+            </choice>
+        </element>
+        <element choice="1" label="EU:29" mandatory="true" max_length="40" name="eu_29" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Test" sequence="0" value="test"/>
+            </choice>
+        </element>
+        <element choice="1" label="Task1.02" mandatory="true" max_length="40" name="task1_02" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="No" sequence="0" value="no"/>
+            </choice>
+        </element>
+        <element choice="1" label="Task1:07" mandatory="true" max_length="40" name="task1_07" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="N" sequence="0" value="n"/>
+                <element inactive_on_update="false" label="Y" sequence="1" value="y"/>
+            </choice>
+        </element>
+        <element label="Task1:EU 30" mandatory="true" max_length="40" name="task1_eu_30" type="string"/>
+        <element label="Task 10.6 completed" max_length="40" name="task_10_6_completed" type="boolean"/>
+        <element label="Task 10.7 completed" max_length="40" name="task_10_7_completed" type="boolean"/>
+        <element label="Task 1 completed" mandatory="true" max_length="40" name="task_1_completed" type="boolean"/>
+        <element label="Task 2.5 completed" max_length="40" name="task_2_5_completed" type="boolean"/>
+        <element label="Task 2 completed" max_length="40" name="task_2_completed" type="boolean"/>
+        <element label="Task 3 completed" max_length="40" name="task_3_completed" type="boolean"/>
+        <element label="Task 4 completed" max_length="40" name="task_4_completed" type="boolean"/>
+        <element label="Task 9.1 completed" max_length="40" name="task_9_1_completed" type="boolean"/>
+    </element>
+</database>
