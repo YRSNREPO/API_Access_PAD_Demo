@@ -11,7 +11,7 @@
         <column_label>Task 10.6 completed</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>false</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -53,7 +53,7 @@
         <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
         <sys_update_name>sys_dictionary_x_snc_yr_apiaccess_request_task_10_6_completed</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2023-09-04 19:49:09</sys_updated_on>
+        <sys_updated_on>2023-09-07 13:34:17</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

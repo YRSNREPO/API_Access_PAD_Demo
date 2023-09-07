@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="ea3df5869749b110078436e8c253af94" extends="task" label="API Access Request" max_length="40" name="x_snc_yr_apiaccess_request" text_index="true" type="collection">
+        <element label="Assignment" max_length="250" name="assignment" type="string"/>
         <element choice="1" label="EU01" mandatory="true" max_length="40" name="eu01" type="choice">
             <choice>
                 <element inactive_on_update="false" label="Yes" sequence="0" value="yes"/>
@@ -12,6 +13,7 @@
                 <element inactive_on_update="false" label="Test" sequence="0" value="test"/>
             </choice>
         </element>
+        <element label="Lane" max_length="40" name="lane" type="string"/>
         <element choice="1" label="Task1.02" mandatory="true" max_length="40" name="task1_02" type="choice">
             <choice>
                 <element inactive_on_update="false" label="No" sequence="0" value="no"/>

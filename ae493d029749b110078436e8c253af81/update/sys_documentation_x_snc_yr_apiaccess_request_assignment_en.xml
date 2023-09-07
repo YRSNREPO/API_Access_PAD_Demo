@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="task_2_5_completed" label="Task 2.5 completed" language="en" table="x_snc_yr_apiaccess_request">
+    <sys_documentation element="assignment" label="Assignment" language="en" table="x_snc_yr_apiaccess_request">
         <sys_documentation action="INSERT_OR_UPDATE">
-            <element>task_2_5_completed</element>
+            <element>assignment</element>
             <help/>
             <hint/>
-            <label>Task 2.5 completed</label>
+            <label>Assignment</label>
             <language>en</language>
             <name>x_snc_yr_apiaccess_request</name>
             <plural/>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-09-04 19:47:40</sys_created_on>
+            <sys_created_on>2023-09-07 13:12:33</sys_created_on>
             <sys_mod_count>5</sys_mod_count>
-            <sys_name>Task 2.5 completed</sys_name>
+            <sys_name>Assignment</sys_name>
             <sys_package display_value="API Access" source="x_snc_yr_apiaccess">ae493d029749b110078436e8c253af81</sys_package>
             <sys_policy/>
             <sys_scope display_value="API Access">ae493d029749b110078436e8c253af81</sys_scope>
-            <sys_update_name>sys_documentation_x_snc_yr_apiaccess_request_task_2_5_completed_en</sys_update_name>
+            <sys_update_name>sys_documentation_x_snc_yr_apiaccess_request_assignment_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-09-07 13:34:35</sys_updated_on>
+            <sys_updated_on>2023-09-07 13:15:50</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
